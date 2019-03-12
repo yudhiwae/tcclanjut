@@ -1,5 +1,6 @@
 #tcclanjut
-#Instalasi Git di Windows
+
+Instalasi Git di Windows
 
 Instalisasi Git di Windows
 Anda harus sudah mempunyai editor teks yang didukung oleh Windws. Editor yang bisa dipilih banyak, tetapi disarankan menggunakan Notepad++ atau Visual Studion Code atau Vim. Keberadaan editor teks ini akan menentukan keberhasilan instalasi (lihat langkah 5)
