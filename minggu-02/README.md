@@ -67,8 +67,6 @@ Selanjutnya klik tombol Create Pull Request.
 
 mengisi judul Pull Request dan pesan yang ingin disampaikan ke komunitas.
 
-gambar
-
 Setelah itu admin atau owner akan melakukan review kontribusimu.
 
 Biasanya akan terjadi diskusi untuk membahas pull request yang telah buat.
