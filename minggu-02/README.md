@@ -37,13 +37,13 @@ Setelah kita melakukan clone ke komputer lokal, selanjutnya buka dengan teks edi
 
 6. Melakukan commit terhadap apa yang sudah dirubah.
 
-gambar
+![06](images/Screenshot_6.png)
 
-7.Push Kontribusimu
+7.Push Kontribusi
 
 Setelah selesai melakukan perubahan dan commit, langkah berikutnya adalah melakukan push.
 
-gambar
+![07](images/Screenshot_7.png)
 
 8. Membuat Pull Request
 
@@ -55,8 +55,6 @@ Maka harus membuat Pull Request.
 
 Silahkan klik tombol New Pull Request pada repository tcclanjut-1.
 
-gambar
-
 Setelah itu, Github akan melakukan komparasi.
 
 Apakah ada kode yang bentrok atau tidak?
@@ -65,7 +63,7 @@ Kalau tidak ada yang bentrok akan muncul tulisan hijau “Able to merge”.
 
 Selanjutnya klik tombol Create Pull Request.
 
-gambar
+![08](images/Screenshot_8.png)
 
 mengisi judul Pull Request dan pesan yang ingin disampaikan ke komunitas.
 
@@ -79,4 +77,4 @@ Apakah akan ditolak atau diterima?
 
 Kalau diterima, biasanya akan ada tulisan “Marged” berwarna ungu.
 
-gambar
+![09](images/Screenshot_9.png)
