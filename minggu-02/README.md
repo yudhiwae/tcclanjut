@@ -4,7 +4,7 @@
 
 1. Yang pertama dilakukan adalah mencari teman atau partner untuk berkolaborasi atau para pengembang di pusat bahwa kita memiliki perubahan yang ingin dikirimkan ke mereka.
 
-gambar
+![01](images/Screenshot_1.png)
 
 2. Fork & Clone Repository
 Langkah selanjutnya adalah melakukan fork repository ke akun kita.
@@ -15,31 +15,25 @@ Nah untuk memprektek, saya sudah menyapkan proyek bernama tcclanjut-1.
 
 Silahkan buka proyek tersebut, lalu klik tombol Fork.
 
-gambar
 
-Tunggu beberapa saat, repository sedang di-fork.
+![02](images/Screenshot_2.png)
 
-gambar
 
 3. Sekarang repository tcclanjut-1 telah menjadi milik kita dan bebas melakukan apapun terhadapnya.
 
 Selanjutnya silahkan clone (download) repository tersebut ke komputer lokal.
 
-gambar
-
-HTTPS: 
-
-gambar
+![03](images/Screenshot_2.png) 
 
 4. Lakukan Modifikasi
 
 Setelah kita melakukan clone ke komputer lokal, selanjutnya buka dengan teks editor dan lakukan modifikasi.
 
-gambar
+![04](images/Screenshot_4.png)
 
 5. Mendaftarkan perubahan sebelum commit
 
-gambar
+![05](images/Screenshot_5.png)
 
 6. Melakukan commit terhadap apa yang sudah dirubah.
 
