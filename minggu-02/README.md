@@ -23,7 +23,7 @@ Silahkan buka proyek tersebut, lalu klik tombol Fork.
 
 Selanjutnya silahkan clone (download) repository tersebut ke komputer lokal.
 
-![03](images/Screenshot_2.png) 
+![03](images/Screenshot_3.png) 
 
 4. Lakukan Modifikasi
 
