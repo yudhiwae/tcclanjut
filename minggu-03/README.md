@@ -9,14 +9,14 @@
 
 1. [Deploying Your First Docker Container](deploying-docker-container.md)
 
-Link Skenario Katacoda [https://www.katacoda.com/courses/docker/deploying-first-container] Deploying Your First Docker Container
+Link Skenario Katacoda https://www.katacoda.com/courses/docker/deploying-first-container Deploying Your First Docker Container
 
 2. [Deploy Static HTML Website as Container](deploy-static-html.md)
 
-Link Skenario Katacoda [https://www.katacoda.com/courses/docker/create-nginx-static-web-server] Deploy Static HTML Website as Container
+Link Skenario Katacoda https://www.katacoda.com/courses/docker/create-nginx-static-web-server Deploy Static HTML Website as Container
 
 3. [Building Container Images](build-container.md)
 
-Link Skenario Katacoda [https://www.katacoda.com/courses/docker/2] Building Container Images 
+Link Skenario Katacoda https://www.katacoda.com/courses/docker/2 Building Container Images 
 
 
