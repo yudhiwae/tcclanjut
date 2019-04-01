@@ -15,7 +15,7 @@ Link Skenario Katacoda(https://www.katacoda.com/courses/docker/deploying-first-c
 
 Link Skenario Katacoda(https://www.katacoda.com/courses/docker/create-nginx-static-web-server) Deploy Static HTML Website as Container
 
-3. [Building Container Images](build-container)
+3. [Building Container Images](build-container.md)
 
 Link Skenario Katacoda(https://www.katacoda.com/courses/docker/2) Building Container Images 
 
